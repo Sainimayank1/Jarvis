@@ -23,7 +23,7 @@ export default function Features() {
       </View>
 
         {/* Component-2 */}
-      <View className="bg-emerald-200 space-y-2 p-4 rounded-xl">
+      <View className="bg-purple-200 space-y-2 p-4 rounded-xl">
         <View className="space-x-4 flex-row items-center">
             <Image source={require("../../assets/images/dalleIcon.png")}
             style={{height:hp(4),width:hp(4)}}></Image>
@@ -35,7 +35,7 @@ export default function Features() {
       </View>
 
         {/* Component-3 */}
-      <View className="bg-emerald-200 space-y-2 p-4 rounded-xl">
+      <View className="bg-cyan-200 space-y-2 p-4 rounded-xl">
         <View className="space-x-4 flex-row items-center">
             <Image source={require("../../assets/images/smartaiIcon.png")}
             style={{height:hp(4),width:hp(4)}}></Image>
